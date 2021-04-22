@@ -10,7 +10,7 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- There is a problem with the API 
+- There is a problem with the API https://github.com/KamrynCutler/twitter/blob/main/ezgif.com-gif-maker.gif
 
 - [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can log in. (1pt)
